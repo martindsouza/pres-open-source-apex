@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "TODO",
+  "author": "Martin Giffy D'Souza <martin@clarifit.com>",
+  "scripts": {
+    "test": "supervisor -e 'html|js|md|css' node app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindsouza/test"
+  },
+  "bugs": {
+    "url": "https://github.com/martindsouza/test/issues"
+  },
+  "keywords": ["TODO"],
+  "dependencies": {
+    "reload": "*",
+    "express": "4.13.x",
+    "body-parser": "1.14.x"
+  },
+  "private": true,
+  "analyze": true,
+  "license": "MIT"
+}
