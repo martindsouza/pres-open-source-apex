@@ -1,6 +1,21 @@
+.reveal section img {
+  border: none;
+}
+
+
+.no-bullet ~ ul{
+  list-style-type: none;
+}
+
+
 .attribution{
     position:absolute;
     bottom:0;
     right:0;
     font-size:0.5em
+}
+
+
+.white{
+  color: white;
 }
