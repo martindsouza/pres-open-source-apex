@@ -10478,7 +10478,7 @@
           "display_sequence": 10,
           "region": "Search",
           "source_used": "Only when current value in session state is null",
-          "label": "Search",
+          "label": "Search I changed this",
           "placeholder": "Search customers, orders & products",
           "item_label_template": "Hidden",
           "item_template_options": "#DEFAULT#:t-Form-fieldContainer--stretchInputs:t-Form-fieldContainer--xlarge",
