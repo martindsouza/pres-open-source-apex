@@ -1,7 +1,7 @@
 {
-  "name": "todo",
+  "name": "pres-open-source-apex",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "Presentation: Open Source and APEX",
   "author": "Martin Giffy D'Souza <martin@clarifit.com>",
   "scripts": {
     "test": "supervisor -e 'html|js|md|css' node app.js",
@@ -10,12 +10,12 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/martindsouza/test"
+    "url": "https://github.com/martindsouza/pres-open-source-apex"
   },
   "bugs": {
-    "url": "https://github.com/martindsouza/test/issues"
+    "url": "https://github.com/martindsouza/pres-open-source-apex/issues"
   },
-  "keywords": ["TODO"],
+  "keywords": ["oracle","apex","presentation"],
   "dependencies": {
     "reload": "*",
     "express": "4.13.x",

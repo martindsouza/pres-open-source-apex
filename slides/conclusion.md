@@ -11,7 +11,7 @@ new-slide-vertical
 # Homework
 
 Notes:
-- Would like to get feedback from this talk.
+- Would like to get feedback from this talk.</br>
 - Please create an [issue](https://github.com/martindsouza/pres-open-source-apex/issues) with the label of `feedback` and leave your thoughts.
 
 new-slide-vertical

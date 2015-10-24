@@ -1,29 +1,17 @@
 # Considerations
 
-todo ordering of this
-- Don't s
-new-slide-vertical
-<!-- .slide: data-background="#40548c" -->
-
-## <span class="white"><i class="fa fa-quote-left"></i> We don't use open source software. <i class="fa fa-quote-right"></i></span>
-*<i class="fa fa-minus"></i> many people*
-
 Notes:
-- Heard this so many times.</br>
-- Was very common statement on APEX forums when discussing jQuery a long time ago.</br>
-- You use OS, just may not be aware of it.</br>
-- Ex: OpenSSL, Apache, jQuery, etc.
+- Several to consider when choosing an open source platform.
 
 new-slide-vertical
-
-## Open source isn't free
+<!-- .slide: data-background="#31406b" -->
+## <span class="white">Open source isn't free</span>
 
 Notes:
 - Support, maintain, inherit, etc.</br>
 - What happens if owner stops work on project?</br>
 
 new-slide-vertical
-
 
 ![OS vs Build vs Buy](www/img/os-build-buy.png)
 
@@ -42,6 +30,7 @@ new-slide-vertical
 - <i class="fa fa-square-o"></i> How active is the project?
 - <i class="fa fa-square-o"></i> Can you inherit the project?
 - <i class="fa fa-square-o"></i> How popular is the project?
+- <i class="fa fa-square-o"></i> Paid support option?
 
 Notes:
 - If you decide to use an OS project, there are some things to consider.
