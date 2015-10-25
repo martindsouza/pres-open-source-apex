@@ -8,19 +8,23 @@
 - <i class="fa fa-envelope-o"></i> [mdsouza@insum.ca](mailto:mdsouza@insum.ca)
 - <i class="fa fa-building-o"></i> [Insum Solutions](http://www.insum.ca)
 
-Slides: [github.com/martindsouza/pres-open-source-apex](https://github.com/martindsouza/pres-open-source-apex)
+Presentation: [bit.ly/oow15-martin](http://martindsouza.github.io/pres-open-source-apex/)
+
+Notes:
+- [Turn off notes](javascript: Reveal.configure({"showNotes": false}&#41;;)
 
 new-slide-vertical
 
 # Slides
 <i class="fa fa-github"></i> [github.com/martindsouza/pres-open-source-apex](https://github.com/martindsouza/pres-open-source-apex)
 
+<p class="fragment">![Link to presentation online](www/img/github_desc.png)<p>
+
 Notes:
 - This entire presentation is open source.<br>
   - This may be a first at OOW! <br>
 - Can fork the project, modify, and make any changes you'd like!<br>
-- Because of this won't be pausing for rest of the presentation for links.
-
+- View the presentation [online](http://martindsouza.github.io/pres-open-source-apex/) right now
 
 new-slide-vertical
 
@@ -31,8 +35,8 @@ new-slide-vertical
 - 1790: First patent
 - Older?
 
-Note: How long has open source been around for?
-<br><br>
+Note:
+How long has open source been around for?</br>
 - I think it's been around for a very long time, only recently its been given a fancier name.
 
 

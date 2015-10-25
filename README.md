@@ -1,19 +1,10 @@
 # Open Source and APEX
-TODO: how to run (either via gh-pages or from app.js)
 
+[View presentation](http://martindsouza.github.io/pres-open-source-apex/)
 
-TODO: test on gh-pages
 
 TODO: update presentation.ppt and upload to oow
 
-TODO: Stop submodules, use npm instead
-
-TODO: use submodule reveal (for gh-pages)
-
-https://www.flickr.com/creativecommons/
-
-
-TODO tag this as oow-15 and make reference of it (will change for each confrence)
 
 # Install
 
@@ -41,4 +32,7 @@ git rebase master
 git push origin gh-pages
 git checkout master
 
-TODO turn off notes for presentation
+
+## Images
+
+Some open source images are available [here](https://www.flickr.com/creativecommons/).
