@@ -9,7 +9,7 @@ var bodyParser = require('body-parser')
 var app = express();
 
 app.use('/reveal.js', express.static(path.resolve(__dirname + '/reveal.js')));
-app.use('/Font-Awesome', express.static(path.resolve(__dirname + '/Font-Awesome')));
+app.use('/Font-Awesome', express.static(path.resolve(__dirname + '/node_modules/font-awesome')));
 app.use('/slides', express.static(path.resolve(__dirname + '/slides')));
 app.use('/reload', express.static(path.resolve(__dirname + '/node_modules/reload')));
 app.use('/www', express.static(path.resolve(__dirname + '/www')));
