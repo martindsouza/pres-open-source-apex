@@ -32,7 +32,6 @@ new-slide-vertical
 
 - 1993 Free BSD
 - 1950/60s Software produced by academics
-- 1790: First patent
 - Older?
 
 Note:

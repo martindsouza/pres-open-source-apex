@@ -1,9 +1,8 @@
 # Open Source and APEX
 
+My Open Source and APEX presentation as shown at Oracle Open World 2015
+
 [View presentation](http://martindsouza.github.io/pres-open-source-apex/)
-
-
-TODO: update presentation.ppt and upload to oow
 
 
 # Install
