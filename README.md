@@ -25,12 +25,7 @@ Then open your browser to [http://localhost:3000/](http://localhost:3000/)
 
 ## gh-pages
 
-http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/
-
-git checkout gh-pages
-git rebase master
-git push origin gh-pages
-git checkout master
+Run `./scripts/gh-pages-rebase.sh` in root folder to rebase for web.
 
 
 ## Images
