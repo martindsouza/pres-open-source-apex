@@ -95,7 +95,7 @@ end;
 declare
   l_bool boolean := true;
 begin
-  dbms_output.put_line(case when l_bool then 'TRUE' else 'FALSE');
+  dbms_output.put_line(case when l_bool then 'TRUE' else 'FALSE' end);
 end;
 /
 

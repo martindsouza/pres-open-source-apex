@@ -2,6 +2,13 @@
 - Turn off notifications
 
 
+- Command
+sqlplus giffy/giffy@localhost:11521/xe
+
+SQL developers
+- oos_utils.sql
+- INcrease font
+
 PL/MD Doc
 - Read Setup
 
