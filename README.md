@@ -30,3 +30,7 @@ Run `./scripts/gh-pages-rebase.sh` in root folder to rebase for web.
 ## Images
 
 Some open source images are available [here](https://www.flickr.com/creativecommons/).
+
+## reveal.js
+
+For future apps: `git submodule add https://github.com/hakimel/reveal.js`

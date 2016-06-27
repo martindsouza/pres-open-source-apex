@@ -19,3 +19,8 @@
 .white{
   color: white;
 }
+
+
+.vcenter-img > a > img {
+  vertical-align: middle
+}

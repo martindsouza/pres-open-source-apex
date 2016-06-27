@@ -1,0 +1,18 @@
+- Close Menu Bar
+- Turn off notifications
+
+
+PL/MD Doc
+- Read Setup
+
+
+cd ~/Documents/GitHub/martindsouza/pres-gulp-loader
+npm start
+
+
+AFEB:
+cd ~/Temp/apex_gulp/src/css
+atom test.css
+
+cd ~/Documents/GitHub/oraopensource/apex-frontend-boost
+npm start -- --project=vcentos

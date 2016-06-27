@@ -7,7 +7,7 @@
 - Oracle / APEX ~10 years
 - Wrote a few [books](http://www.talkapex.com/p/books.html)
 - Sr. Consultant at [Insum Solutions](http://www.insum.ca)
-- Director at [ODTUG](http://odtug.com)
+- Vice President at [ODTUG](http://odtug.com)
 
 
 new-slide-vertical
@@ -36,4 +36,5 @@ new-slide-vertical
 
 Notes:
 - North America's largest APEX company.</br>
-- PL/SQL and APEX consulting services.
+- Services: application development, coaching, consulting, EBS extensions, and Forms migration.</br>
+- 80 employees and growing

@@ -1,0 +1,16 @@
+Setup:
+- Have OOS_Utils project open
+- Open ReadTheDocs
+- Open Github page
+
+- Story behind it (Logger / OOS Utils)
+- Show docs on Github & ReadTheDocs
+
+cd ~/Documents/GitHub/oraopensource/plsql-md-doc/
+node app oos-utils
+
+Make file change
+
+node app oos-utils
+
+Show diff

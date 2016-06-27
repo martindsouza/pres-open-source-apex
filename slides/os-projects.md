@@ -1,4 +1,4 @@
-## Popular APEX Open Source Projects
+## Popular APEX </br>Open Source Projects
 
 Note:
 - This section includes videos which will only play in Chrome.</br>
@@ -13,6 +13,13 @@ new-slide-vertical
 new-slide-vertical
 
 <video class="stretch" src="www/video/logger.mp4" controls></video>
+
+new-slide-vertical
+
+### Logger 3rd Party Integrations
+
+<video class="stretch" src="www/video/logger-plugin-splunk.mp4" controls></video>
+
 
 new-slide-vertical
 # Logger
@@ -33,7 +40,7 @@ Build script to generate VM with:
 - ORDS
 - Node.js
   - Oracle Node.js driver (node-oracledb)
-  - Bower
+- And more...
 
 Notes:
 - All demos for this presentation were built from an OXAR built machine.
@@ -62,6 +69,16 @@ new-slide-vertical
 
 new-slide-vertical
 
+## OXAR - KScope 16
+
+</br>
+<p class="no-bullet"></p>
+- <div class="vcenter-img">[![Adrian Png](www/img/adrian-png.jpg) Adrian Png](https://twitter.com/fuzziebrain)</div>
+- <div class="vcenter-img">[![Trent Schafter](www/img/trent-schafer.jpeg) Trent Schafer](https://twitter.com/trentschafer)</div>
+
+
+new-slide-vertical
+
 # APEX-Diff
 
 - Exports APEX in JSON format
@@ -82,16 +99,127 @@ new-slide-vertical
 
 # APEX-Diff
 
-<i class="fa fa-github"></i> [github.com/OraOpenSource/apex-diff](https://github.com/OraOpenSource/apex-diff)
+<p class="no-bullet"></p>
+- <i class="fa fa-github"></i> [github.com/OraOpenSource/apex-diff](https://github.com/OraOpenSource/apex-diff)
+- <i class="fa fa-book"></i> [Life Cycle Management with Oracle APEX](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-life-cycle-management-wp-3030229.pdf)
+
+</br>
+*"This product is one of the best alternatives for comparing different releases of an application."*
+
 
 Notes:
 - Read the pre-requisites section (solve 90% of issues people have reported).</br>
-- Usage: run after once a day for simple code reviews by tech lead.
+- Usage: run after once a day for simple code reviews by tech lead.</br>
+
+new-slide-vertical
+
+# OOS Utils
+
+</br>
+Common set of PL/SQL utility methods
+
+new-slide-vertical
+
+<!-- .slide: data-background="#31406b" -->
+# <span class="white">Demo</span>
+
+
+Notes:
+- No video for this now as OOS Utils is still in beta
+-
+new-slide-vertical
+
+# OOS Utils
+
+<i class="fa fa-github"></i> [github.com/OraOpenSource/oos-utils](https://github.com/OraOpenSource/oos-utils)
+
+*How you can help: Test beta & submit issues*
+
+new-slide-vertical
+
+# OMonAPEX
+
+Database monitoring application
+
+new-slide-vertical
+
+<!-- .slide: data-background="#31406b" -->
+# <span class="white">Demo</span>
+
+[demolink](http://vcentos:10080/ords/f?p=137)
+
+new-slide-vertical
+
+# OMonAPEX
+
+<i class="fa fa-github"></i> [github.com/OraOpenSource/OMonAPEX](https://github.com/OraOpenSource/OMonAPEX)
+
+new-slide-vertical
+
+## APEX Front-End Boost
+
+</br>
+Code faster, easier, and prettier
+
+new-slide-vertical
+
+<!-- .slide: data-background="#31406b" -->
+# <span class="white">Demo</span>
+
+new-slide-vertical
+
+## APEX Front-End Boost
+
+</br>
+
+<i class="fa fa-github"></i> [github.com/OraOpenSource/apex-frontend-boost](https://github.com/OraOpenSource/apex-frontend-boost)
+
+<i class="fa fa-youtube"></i> [Webinar](https://www.youtube.com/watch?v=rvKIRo466CU)
+
+new-slide-vertical
+
+## APEX Front-End Boost KScope 16
+
+<p class="no-bullet"></p>
+- <div class="vcenter-img">[![Vincent Morneau](www/img/vincent-morneau.jpeg) Vincent Morneau](https://twitter.com/vincentmorneau)</div>
+
+
+<i class="fa fa-calendar"></i> Getting Good at an Obsolete Technology: *Tues 4:45pm*
+
+new-slide-vertical
+
+# PLSQL to Markdown
+
+Converts PL/SQL JavaDoc documentation to markdown
+
+new-slide-vertical
+
+<!-- .slide: data-background="#31406b" -->
+# <span class="white">Demo</span>
 
 
 new-slide-vertical
 
+# PLSQL to Markdown
 
+<i class="fa fa-github"></i> [github.com/OraOpenSource/plsql-md-doc](https://github.com/OraOpenSource/plsql-md-doc)
+
+new-slide-vertical
+
+# APEX Sert
+
+Security Evaluation and Recommendation Tool for APEX
+
+<i class="fa fa-github"></i> [github.com/OraOpenSource/apex-sert](https://github.com/OraOpenSource/apex-sert)
+
+new-slide-vertical
+
+## APEX Sert KScope 16
+
+<p class="no-bullet"></p>
+- <div class="vcenter-img">[![Scott Spendolini](www/img/scott-spendolini.png) Scott Spendolini](https://twitter.com/sspendol)</div>
+
+new-slide-vertical
 
 
 # APEX Plugins
