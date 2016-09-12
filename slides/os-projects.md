@@ -69,16 +69,6 @@ new-slide-vertical
 
 new-slide-vertical
 
-## OXAR - KScope 16
-
-</br>
-<p class="no-bullet"></p>
-- <div class="vcenter-img">[![Adrian Png](www/img/adrian-png.jpg) Adrian Png](https://twitter.com/fuzziebrain)</div>
-- <div class="vcenter-img">[![Trent Schafter](www/img/trent-schafer.jpeg) Trent Schafer](https://twitter.com/trentschafer)</div>
-
-
-new-slide-vertical
-
 # APEX-Diff
 
 - Exports APEX in JSON format
@@ -178,16 +168,6 @@ new-slide-vertical
 
 new-slide-vertical
 
-## APEX Front-End Boost KScope 16
-
-<p class="no-bullet"></p>
-- <div class="vcenter-img">[![Vincent Morneau](www/img/vincent-morneau.jpeg) Vincent Morneau](https://twitter.com/vincentmorneau)</div>
-
-
-<i class="fa fa-calendar"></i> Getting Good at an Obsolete Technology: *Tues 4:45pm*
-
-new-slide-vertical
-
 # PLSQL to Markdown
 
 Converts PL/SQL JavaDoc documentation to markdown
@@ -211,13 +191,6 @@ new-slide-vertical
 Security Evaluation and Recommendation Tool for APEX
 
 <i class="fa fa-github"></i> [github.com/OraOpenSource/apex-sert](https://github.com/OraOpenSource/apex-sert)
-
-new-slide-vertical
-
-## APEX Sert KScope 16
-
-<p class="no-bullet"></p>
-- <div class="vcenter-img">[![Scott Spendolini](www/img/scott-spendolini.png) Scott Spendolini](https://twitter.com/sspendol)</div>
 
 new-slide-vertical
 
