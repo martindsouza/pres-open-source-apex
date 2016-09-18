@@ -13,7 +13,7 @@ new-slide-vertical
 
 new-slide-vertical
 
-![kscope17](../www/img/kscope17.jpg)
+![kscope17](www/img/kscope17.jpg)
 
 [KScope 17](http://kscope17.com)</br>
 June 25-29 - San Antonio
