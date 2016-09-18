@@ -1,0 +1,62 @@
+SSL demo only 
+
+ssh root@oxar02.odbopensource.com
+
+OPEN in two different browsers
+
+http://162.243.145.165:10084
+http://162.243.145.165:10085
+
+ssh root@162.243.145.165
+
+
+docker run \
+  --shm-size=1g \
+  -p 10084:80 \
+  -p 10444:443 \
+  -v /tmp/oxarfiles/:/tmp/files \
+  -v /sys/fs/cgroup:/sys/fs/cgroup:ro \
+  -it \
+  --privileged \
+  local/c7-systemd-base01
+
+
+# For DEMO!!!
+
+docker run \
+  --shm-size=1g \
+  -p 10084:80 \
+  -p 10444:443 \
+  -v /tmp/oxarfiles/:/tmp/files \
+  -v /sys/fs/cgroup:/sys/fs/cgroup:ro \
+  -it \
+  --privileged \
+  oxar01
+
+
+docker run --shm-size=1g \
+  -p 10085:80 \
+  -p 10445:443 \
+  -v /tmp/oxarfiles/:/tmp/files \
+  -v /sys/fs/cgroup:/sys/fs/cgroup:ro \
+  -it \
+  --privileged \
+  oxar01
+
+
+docker run \
+  --shm-size=1g \
+  -p 10085:80 \
+  -p 10445:443 \
+  -v /tmp/oxarfiles/:/tmp/files \
+  -v /sys/fs/cgroup:/sys/fs/cgroup:ro \
+  -it \
+  --privileged \
+  oxar01
+
+
+
+wget https://s3-us-west-2.amazonaws.com/orclfiles/oracle-xe-11.2.0-1.0.x86_64.rpm.zip
+wget https://s3-us-west-2.amazonaws.com/orclfiles/apex_5.0.4_en.zip
+wget https://s3-us-west-2.amazonaws.com/orclfiles/sqlcl-4.2.0.16.175.1027-no-jre.zip
+wget https://s3-us-west-2.amazonaws.com/orclfiles/ords.3.0.6.176.08.46.zip

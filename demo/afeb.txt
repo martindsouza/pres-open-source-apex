@@ -1,0 +1,11 @@
+*** AFEB ***
+
+cd ~/Temp/apex_gulp/src/css
+atom test.css
+
+cd ~/Documents/GitHub/oraopensource/apex-frontend-boost
+npm start -- --project=vcentos
+
+Go back and look at
+  - http://vcentos:10080/ords/f?p=136
+Notice now the changes don't affect other users
