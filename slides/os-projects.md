@@ -37,6 +37,7 @@ new-slide-vertical
 Build script to generate VM with:
 - Oracle XE
 - APEX
+  - SSL and [Let's Encrypt](https://letsencrypt.org/) integrationq
 - ORDS
 - Node.js
   - Oracle Node.js driver (node-oracledb)
@@ -46,6 +47,15 @@ Notes:
 - All demos for this presentation were built from an OXAR built machine.
 
 
+new-slide-vertical
+
+<!-- .slide: data-background="#31406b" -->
+# <span class="white">Demo</span>
+
+
+Notes:
+  - Upcoming Docker image
+  -
 new-slide-vertical
 
 <video class="stretch" src="www/video/oxar.mp4" controls></video>
@@ -94,8 +104,10 @@ new-slide-vertical
 - <i class="fa fa-book"></i> [Life Cycle Management with Oracle APEX](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-life-cycle-management-wp-3030229.pdf)
 
 </br>
-*"This product is one of the best alternatives for comparing different releases of an application."*
 
+<blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
+	&ldquo;This product is one of the best alternatives for comparing different releases of an application.&rdquo;
+</blockquote>
 
 Notes:
 - Read the pre-requisites section (solve 90% of issues people have reported).</br>

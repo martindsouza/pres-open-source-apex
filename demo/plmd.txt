@@ -1,7 +1,10 @@
 Setup:
 - Have OOS_Utils project open
+  - https://github.com/OraOpenSource/oos-utils/tree/master/docs
 - Open ReadTheDocs
+  - http://oos-utils.readthedocs.io/en/latest/README/
 - Open Github page
+  - https://github.com/OraOpenSource/oos-utils
 
 - Story behind it (Logger / OOS Utils)
 - Show docs on Github & ReadTheDocs
@@ -9,7 +12,7 @@ Setup:
 cd ~/Documents/GitHub/oraopensource/plsql-md-doc/
 node app oos-utils
 
-Make file change
+# Make file change (oos_util_lob)
 
 node app oos-utils
 

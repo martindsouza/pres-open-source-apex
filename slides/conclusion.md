@@ -1,3 +1,8 @@
+# One More Thing
+
+
+new-slide-vertical
+
 # Get Involved
 
 - Signup to [<i class="fa fa-github"></i> Github](https://github.com)
@@ -8,11 +13,20 @@
 
 new-slide-vertical
 
-# Homework
+![kscope17](../www/img/kscope17.jpg)
 
-Notes:
-- Would like to get feedback from this talk.</br>
-- Please create an [issue](https://github.com/martindsouza/pres-open-source-apex/issues) with the label of `feedback` and leave your thoughts.
+[KScope 17](http://kscope17.com)</br>
+June 25-29 - San Antonio
+
+new-slide-vertical
+
+# Events
+
+- [Webinars](https://www.insum.ca/webinars/)
+  - _Dates TBC_
+  - OOS Utils - Sept 29
+  - Node.js - Oct 5
+- [Vancouver Dev Day](http://info.insum.ca/oracle-developer-day-vancouver) - Oct 27
 
 new-slide-vertical
 

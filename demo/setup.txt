@@ -17,9 +17,16 @@ cd ~/Documents/GitHub/martindsouza/pres-gulp-loader
 npm start
 
 
-AFEB:
-cd ~/Temp/apex_gulp/src/css
-atom test.css
 
-cd ~/Documents/GitHub/oraopensource/apex-frontend-boost
-npm start -- --project=vcentos
+*** TOTP ***
+
+DELETE Google Auth entry
+
+ssh -p 10022 giffy@vcentos
+
+sudo -i
+date
+sudo service ntp stop
+sudo ntpdate -s time.nist.gov
+sudo service ntp start
+date
