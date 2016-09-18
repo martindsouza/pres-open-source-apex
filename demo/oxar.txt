@@ -1,4 +1,16 @@
-SSL demo only 
+SSL demo only
+
+https://oxar02.odbopensource.com/
+  - Notice the SSL warning (unsigned cert)
+
+
+cd /tmp/oxar
+./node4ords/letsencrypt.sh oxar02.odbopensource.com mdsouza@insum.ca
+
+Docs
+https://github.com/OraOpenSource/OXAR/
+Search for SSL
+  - SSL page
 
 ssh root@oxar02.odbopensource.com
 

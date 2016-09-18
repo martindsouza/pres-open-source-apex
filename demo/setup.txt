@@ -1,6 +1,8 @@
 - Close Menu Bar
 - Turn off notifications
-
+- Plugin iPhone
+  - Setup airserver
+  - Test over different connections
 
 - Command
 sqlplus giffy/giffy@localhost:11521/xe

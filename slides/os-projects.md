@@ -46,16 +46,6 @@ Build script to generate VM with:
 Notes:
 - All demos for this presentation were built from an OXAR built machine.
 
-
-new-slide-vertical
-
-<!-- .slide: data-background="#31406b" -->
-# <span class="white">Demo</span>
-
-
-Notes:
-  - Upcoming Docker image
-  -
 new-slide-vertical
 
 <video class="stretch" src="www/video/oxar.mp4" controls></video>
@@ -66,6 +56,20 @@ Notes:
 - Need to copy the files over to the VM Oracle licensing prevents including them.</br>
 - Can also reference files on network or provide URL to file.
 
+new-slide-vertical
+
+<!-- .slide: data-background="#31406b" -->
+# <span class="white">Demo (SSL)</span>
+
+
+new-slide-vertical
+
+# OXAR
+
+[![Docker](www/img/docker.png)](https://www.docker.com)
+
+</br>
+_Comming soon_
 
 new-slide-vertical
 
